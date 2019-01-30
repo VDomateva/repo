@@ -104,7 +104,11 @@ hr {
 
 </style>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<<<<<<< HEAD
+<title>Jaguar2</title>
+=======
 <title>Jaguar 1</title>
+>>>>>>> ce35ceb2656c82e38c018a6e540f91b384b29cfa
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
